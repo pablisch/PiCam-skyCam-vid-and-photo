@@ -17,3 +17,12 @@ The script can be stopped by running the following command:
 
 `sudo killall python`
 
+Photos taken during the high altitude balloon flight:
+![The moment the balloon burst](images/balloon-burst.png)
+
+![The launch site below](images/launch-site.jpg)
+
+![Half way up](images/half-way-up.jpg)
+
+You can also see a video of the moment the balloon burst [here](https://drive.google.com/file/d/1lMgBaVS7oJdVSEwQzxkLll81O-rPzlPR/view?usp=sharing).
+
