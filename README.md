@@ -17,6 +17,9 @@ The script can be stopped by running the following command:
 
 `sudo killall python`
 
+A Raspberry Pi with camera module:
+![Raspberry Pi with camera module](images/camera-module.png)
+
 Photos taken during the high altitude balloon flight:
 ![The moment the balloon burst](images/balloon-burst.png)
 
